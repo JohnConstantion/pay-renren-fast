@@ -74,3 +74,16 @@ renren:
     # token有效时长，7天，单位秒
     expire: 604800
     header: token
+
+# 定义固定的参数
+application:
+  # 小程序的appId
+  app-id:
+  # 小程序的密钥
+  app-secret:
+  #商户号
+  mch-id:
+  #商户号的密钥
+  key:
+  #数字证书（及文件的地址）
+  cert-path:
